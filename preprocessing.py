@@ -30,7 +30,7 @@ def remove_stop_words(name):
     replaced_name = ''
     
     for word in name:
-        value = get_value_from_abbr_expn_list(word)
+        value = get_value_from_abbr_list(word)
         if value != 'na':
             if value not in replaced_name:
                 replaced_name = replaced_name + ' ' + value
