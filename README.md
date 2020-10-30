@@ -1,4 +1,4 @@
-# name matching
+# Different Approaches to Name Matching - Fuzzy Match, NLP, Machine Learning
 
 ## The Problem
 
